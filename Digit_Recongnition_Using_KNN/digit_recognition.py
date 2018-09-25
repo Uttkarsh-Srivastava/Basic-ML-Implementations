@@ -1,4 +1,4 @@
-from numpy import *
+cdfrom numpy import *
 import operator
 from os import listdir
 
